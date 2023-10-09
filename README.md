@@ -1,8 +1,10 @@
+<div align="center">
+
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Re_Go%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Make%20The%20Way%More%Worthy&descAlign=70&descAlignY=50)
 
 <br>
 
-<div align="center">
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmin0919\&show_icons=true\&theme=radical)
 
