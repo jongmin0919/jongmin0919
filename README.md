@@ -2,9 +2,9 @@
 	<h1>Hi! Here's  Re_Go's Profile 😁</h1>
 </div>
 
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jongmin0919\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
+<br>
 
 <div align=center>
 	<h3> 🔧 Tech Stack 🔧 </h3>
