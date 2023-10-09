@@ -25,10 +25,6 @@
 	<br>
 	</div>
 <br>
-	<div align=center>
-		<p>📁 PortFolio (Building) 📁</p>
-	</div>
-<br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -38,6 +34,10 @@
 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	</a>
 </div>
+<br>
+	<div align=center>
+		<p>📁 PortFolio (Building) 📁</p>
+	</div>
 <br>
 <div align=center>
 <p>📱 Social Network 📱</p>
