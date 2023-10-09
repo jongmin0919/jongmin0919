@@ -2,14 +2,14 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; text-align:left">
-        <img src="https://github-readme-stats.vercel.app/api/?username=jongmin0919&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats">
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongmin0919" alt="Top Languages">
-    </div>
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmin0919\&show_icons=true\&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+<hr>
 
 
 <br>
