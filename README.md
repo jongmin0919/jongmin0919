@@ -56,4 +56,4 @@
 	</a>
 </div>
 <br>
-![Re_Go's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmin0919&hide=contribs,prs&show_icons=true&theme=merko)
+[!Re_Go's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmin0919&hide=contribs,prs&show_icons=true&theme=merko)
