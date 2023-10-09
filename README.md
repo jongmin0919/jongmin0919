@@ -49,13 +49,12 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<br>
 	</div>
-<br>
-<br>
-	<div align=center>
-		<p>📁 PortFolio (Building) 📁</p>
-	</div>
-<br>
-<br>
+
+
+# 3️⃣ PortFolio
+
+# 4️⃣ Community & Activity
+
 <div align=center>
 	<p>📱 Social Network 📱</p>
 </div>
@@ -69,6 +68,7 @@
  <div align=center>
 	<p>🌍 Study Group & Social Club (Building)🌍</p>
 </div>
+	
 
 
 
