@@ -17,7 +17,6 @@
 <div align=center>
 	<h3> 🔧 Tech Stack 🔧 </h3>
 	<br>
-	
 	<p>📚 Languages Practice 📚</p>
 </div>
 <div align="center">
