@@ -40,7 +40,7 @@
 <br>
 <br>
 	<div align=center>
-		<p>👨‍💻 Making Stories 👨‍💻</p>
+		<p>👨‍💻 Making Projects 👨‍💻</p>
 	</div>
 <div align="center">
 	<a href = "https://github.com/jongmin0919/first_project/tree/main">
