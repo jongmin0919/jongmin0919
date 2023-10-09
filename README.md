@@ -18,7 +18,6 @@
 # 2️⃣ Stacks 
 <div align=center>
 	<p>📚 Languages Practice 📚</p>
-	<br>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?CSS3-1572B6?style=flat&logo=HTML5&logoColor=white" />
@@ -29,10 +28,19 @@
 	</div>
 <br>
 <br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<a href="https://github.com/jongmin0919">
+		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	</a>
+</div>
+<br>
 <br>
 	<div align=center>
 		<p>👨‍💻 ClonCoading 👨‍💻</p>
-		<br>
 	</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -43,30 +51,13 @@
 	</div>
 <br>
 <br>
-<br>
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-	<br>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<a href="https://github.com/jongmin0919">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	</a>
-</div>
-<br>
-<br>
-<br>
 	<div align=center>
 		<p>📁 PortFolio (Building) 📁</p>
-		<br>
 	</div>
-<br>
 <br>
 <br>
 <div align=center>
 	<p>📱 Social Network 📱</p>
-	<br>
 </div>
 <div align=center>
 	<a href="https://youtube.com/@Re_Go?si=NkV7J2nzrIhn8GS-">
