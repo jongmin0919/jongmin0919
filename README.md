@@ -4,13 +4,9 @@
 
 <br>
 
-<div align=left>
+<div style="display: flex; justify-content: space-between;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jongmin0919\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
-</div>
-
-<div align=right>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongmin0919)](https://github.com/anuraghazra/github-readme-stats)
 
