@@ -19,6 +19,7 @@
 	<br>
 	<p>📚 Languages Practice 📚</p>
 </div>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?CSS3-1572B6?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -60,15 +61,9 @@
     		<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white" />
 	</a>
  <div align=center>
-	<p>🌍 Study Group & Social Club 🌍</p>
+	<p>🌍 Study Group & Social Club (Building)🌍</p>
 </div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<a href="https://github.com/jongmin0919">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	</a>
-</div>
-<br>
+
 
 
 
