@@ -4,16 +4,20 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmin0919\&show_icons=true\&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmin0919&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
+
+
+
 <hr>
 
 <div align=center>
 	<h3> 🔧 Tech Stack 🔧 </h3>
 	<br>
+	
 	<p>📚 Languages Practice 📚</p>
 </div>
 <div align="center">
