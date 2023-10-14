@@ -73,7 +73,7 @@
 	<p>🌍 Study Group & Social Club (Building)🌍</p>
 </div>
 	<a href= "https://github.com/jongmin0919/Coding_Test_Practice">
-		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScriptAlgorithm&logoColor=white" />
+		<img src="https://img.shields.io/badge/Algorithm_Study-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	</a>
 
 
