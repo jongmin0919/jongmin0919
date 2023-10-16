@@ -72,7 +72,7 @@
  <div align=center>
 	<p>🌍 Study Group & Social Club (Building)🌍</p>
 </div>
-	<a href= "https://github.com/jongmin0919/Coding_Test_Practice">
+	<a href= "https://github.com/Gangnam-Algorithm-Study">
 		<img src="https://img.shields.io/badge/Algorithm_Study-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	</a>
 
