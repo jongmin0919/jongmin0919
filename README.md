@@ -66,6 +66,9 @@
 	<a href="https://youtube.com/@Re_Go?si=NkV7J2nzrIhn8GS-">
     		<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white" />
 	</a>
+	<a href="https://velog.io/@re_go">
+    		<img src="https://img.shields.io/badge/Velog-FF0000?style=flat&logo=Velog&logoColor=white" />
+	</a>
 <br>
 <br>
 <br>
