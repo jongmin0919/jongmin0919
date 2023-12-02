@@ -78,6 +78,12 @@
 	<a href= "https://github.com/Gangnam-Algorithm-Study">
 		<img src="https://img.shields.io/badge/Algorithm_Study-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	</a>
+ <a href= "https://github.com/MJDDS">
+		<img src="https://img.shields.io/badge/Modern_Javascript_DeepDive_Study-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	</a>
+ <a href= "https://github.com/react-real-world">
+		<img src="https://img.shields.io/badge/React_Study(DevLaps)-61DAFB?style=flat&logo=React&logoColor=white" />
+	</a>
 
 
 
