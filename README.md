@@ -54,9 +54,10 @@
 	<br>
 	</div>
 
-
+<hr>
 # 3️⃣ PortFolio
 
+<hr>
 # 4️⃣ Community & Activity
 
 <div align=center>
