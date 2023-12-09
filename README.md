@@ -81,10 +81,10 @@
 	<a href= "https://github.com/Gangnam-Algorithm-Study">
 		<img src="https://img.shields.io/badge/Algorithm_Study-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	</a>
- <a href= "https://github.com/code-study-introduction">
-		<img src="https://img.shields.io/badge/
-code-study-introduction-00BCB4E?style=flat&logo=thealgorithms&logoColor=white" />
+ 	<a href= "https://github.com/code-study-introduction">
+		<img src="https://img.shields.io/badge/Code_Study_Introduction-00BCB4?style=flat&logo=TheAlgorithms&logoColor=white" />
 	</a>
+ 
  <a href= "https://github.com/react-real-world">
 		<img src="https://img.shields.io/badge/React_Study(DevLaps)-61DAFB?style=flat&logo=React&logoColor=white" />
 	</a>
