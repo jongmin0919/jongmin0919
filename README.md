@@ -83,7 +83,7 @@
 	</a>
  <a href= "https://github.com/code-study-introduction">
 		<img src="https://img.shields.io/badge/
-code-study-introduction-00BCB4E?style=flat&logo=thealgorithmst&logoColor=white" />
+code-study-introduction-00BCB4E?style=flat&logo=thealgorithms&logoColor=white" />
 	</a>
  <a href= "https://github.com/react-real-world">
 		<img src="https://img.shields.io/badge/React_Study(DevLaps)-61DAFB?style=flat&logo=React&logoColor=white" />
