@@ -60,9 +60,10 @@
 <div align=center>
 	<p>📗 Emotion_Diary 📗</p>
 
-        <img src="https://github.com/jongmin0919/jongmin0919/assets/144569961/722005fc-7072-4364-ae03-15adf85aecc6">
-
-	https://emotion-diary-rho.vercel.app/
+	<p align="center">
+	  <img src="![감정일기장](https://github.com/jongmin0919/jongmin0919/assets/144569961/bf9d40b9-c52d-47cf-bbce-6d52d4a786eb)">
+	</p>
+        
 <div>
 <hr>
 
