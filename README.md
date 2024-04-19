@@ -57,14 +57,14 @@
 <hr>
 
 # 3️⃣ PortFolio
-	<p> 📗 Emotion_Diary 📗 </p>
+	<p>📗 Emotion_Diary 📗</p>
+https://emotion-diary-rho.vercel.app/
 <hr>
 
 # 4️⃣ Community & Activity
 
 <div align=center>
 	<p>📱 Social Network 📱</p>
-	https://emotion-diary-rho.vercel.app/
 </div>
 <div align=center>
 	<a href="https://youtube.com/@Re_Go?si=NkV7J2nzrIhn8GS-">
