@@ -59,6 +59,7 @@
 # 3️⃣ PortFolio
 <div align=center>
 	<p>📗 Emotion_Diary 📗</p>
+	![감정일기장](https://github.com/jongmin0919/jongmin0919/assets/144569961/722005fc-7072-4364-ae03-15adf85aecc6)
 	https://emotion-diary-rho.vercel.app/
 <div>
 <hr>
