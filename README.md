@@ -58,11 +58,11 @@
 
 # 3️⃣ PortFolio
 <div align=center>
-	<p>📗 Emotion_Diary 📗</p>
-	https://emotion-diary-rho.vercel.app/
-	<p align="center">
-	  <img src="https://github.com/jongmin0919/jongmin0919/assets/144569961/bf9d40b9-c52d-47cf-bbce-6d52d4a786eb">
-	</p>
-        
+	
 <div>
 <hr>
+
+# 4️⃣ Acting Community
+<div align=center>
+	
+<div>
