@@ -58,39 +58,11 @@
 
 # 3️⃣ PortFolio
 <div align=center>
-
+	<p>📗 Emotion_Diary 📗</p>
+	https://emotion-diary-rho.vercel.app/
+	<p align="center">
+	  <img src="https://github.com/jongmin0919/jongmin0919/assets/144569961/bf9d40b9-c52d-47cf-bbce-6d52d4a786eb">
+	</p>
+        
 <div>
 <hr>
-
-# 4️⃣ Community & Activity
-
-<div align=center>
-	<p>📱 Social Network 📱</p>
-</div>
-<div align=center>
-	<a href="https://youtube.com/@Re_Go?si=NkV7J2nzrIhn8GS-">
-    		<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white" />
-	</a>
-	<a href="https://velog.io/@re_go">
-    		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
-	</a>
-<br>
-<br>
-<br>
- <div align=center>
-	<p>🌍 Study Group & Social Club (Building)🌍</p>
-</div>
-	<a href= "https://github.com/Gangnam-Algorithm-Study">
-		<img src="https://img.shields.io/badge/Algorithm_Study-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	</a>
- 	<a href= "https://github.com/code-study-introduction">
-		<img src="https://img.shields.io/badge/Code_Study_Introduction-00BCB4?style=flat&logo=TheAlgorithms&logoColor=white" />
-	</a>
- 
- <a href= "https://github.com/react-real-world">
-		<img src="https://img.shields.io/badge/React_Study(DevLaps)-61DAFB?style=flat&logo=React&logoColor=white" />
-	</a>
-
-
-
-
