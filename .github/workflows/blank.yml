@@ -1,20 +1,26 @@
 name: Update Visitor Count
 
-# 워크플로가 실행될 이벤트 설정
 on:
-  push:
-    branches:
-      - main  # main 브랜치로 푸시될 때마다 실행
   schedule:
-    - cron: '0 9 * * *'  # 매일 오전 9시에 실행
-  workflow_dispatch:  # Actions 탭에서 수동으로 실행 가능
+    - cron: '*/5 * * * *'  # 5분마다 실행
 
 jobs:
   update-visitor-count:
     runs-on: ubuntu-latest
-
     steps:
-      # Glitch 서버로 방문자 수 증가 요청을 보내는 단계
-      - name: Send request to Glitch server
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Get current visitor count from Glitch
+        id: get_count
         run: |
-          curl -X GET https://tricolor-real-thrill.glitch.me/redirect
+          count=$(curl -s https://tricolor-real-thrill.glitch.me/count) # 서버 URL 수정 필요
+          echo "count=${count}" >> $GITHUB_ENV
+
+      - name: Update README with visitor count
+        run: |
+          sed -i "s/Visitor count: [0-9]*/Visitor count: ${count}/g" README.md
+          git config --local user.email "your-email@example.com"
+          git config --local user.name "your-username"
+          git commit -am "Update visitor count to ${count}"
+          git push
