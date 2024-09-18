@@ -112,3 +112,7 @@
 </table>
 </div>
 <hr>
+
+<p align="center">
+  <img src="https://tricolor-real-thrill.glitch.me/count?cachebust=true" alt="Visitor count" />
+</p>
