@@ -114,6 +114,9 @@
 <hr>
 
 <p align="center">
+  Visitor count<br>
   <img src="https://tricolor-real-thrill.glitch.me/count?cachebust=${Math.random()}" alt="Visitor count" />
 </p>
+
+
 
