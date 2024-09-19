@@ -1,6 +1,12 @@
 <div align="center">
 
+
+
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Re_Go%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Make%20The%20Way%20More%20Worthy&descAlign=70&descAlignY=50)
+
+<a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongmin0919%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=openstreetmap.svg&icon_color=%23FFFFFF&title=Visitor+Count&edge_flat=false" alt="Visitor Count" width="300"/>
+</a>
 
 </div>
 <hr>
@@ -8,10 +14,6 @@
 # 1️⃣ Git_Hub States 
 
 <div align="center">
-
-<a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongmin0919%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=openstreetmap.svg&icon_color=%23FFFFFF&title=Visitor+Count&edge_flat=false" alt="Visitor Count" width="300"/>
-</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmin0919&show_icons=true&theme=radical) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
